@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SE4041 – Mobile Application Design & Development  
 ## Practical 05 – Building a watchOS App with SwiftUI
 
@@ -1177,3 +1178,6 @@ Additional feature: **Option A – Reset Tasks**
 ![Main screen](screenshots/01-Main-Screen.png)
 ![Completed tasks](screenshots/02-Completed-Tasks.png)
 ![Task detail](screenshots/03-Task-Detail.png)
+=======
+# SE4041-Practical-05
+>>>>>>> f539c1f4d67aacc16c7261e075cba96d9e4e844d
